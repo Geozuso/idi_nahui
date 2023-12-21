@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modid:idi_nahuy"
+    }
+  },
+  "result": {
+    "item": "modid:idi_nahuy_block"
+  }
+}
