@@ -11,7 +11,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
-    public static final Block IDI_NAHUY_ORE_BLOCK = registerBlock("idi_nahuy_ore_block",
+    public static final Block IDI_NAHUY_ORE = registerBlock("idi_nahuy_ore",
             new Block(FabricBlockSettings.copyOf(Blocks.END_STONE)));
 
     public static final Block IDI_NAHUY_BLOCK = registerBlock("idi_nahuy_block",
